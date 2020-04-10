@@ -1,4 +1,4 @@
-Bytom Script Visualizer
+Bytom Script IDE
 ============================
 
 WIP
