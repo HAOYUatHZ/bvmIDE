@@ -1,3 +1,9 @@
+Bytom Script Visualizer
+============================
+
+WIP
+
+<!-- 
 Bitcoin Script IDE
 ============================
 
@@ -29,5 +35,6 @@ Try it out!
 10. If the script was a valid script, then the text box on the bottom will be green and the stack elements will be orange.
 11. If the script was invalid, then the text box and the stack elements will be red
 
+-->
 
 
